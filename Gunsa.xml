@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<GunsContainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Guns>
+    <Gun Zoom="true">
+      <GunName>AK47</GunName>
+      <Ammo>30</Ammo>
+      <RecoilTime>0.5</RecoilTime>
+    </Gun>
+    <Gun Zoom="true">
+      <GunName>Sniper</GunName>
+      <Ammo>15</Ammo>
+      <RecoilTime>0.8</RecoilTime>
+    </Gun>
+  </Guns>
+</GunsContainer>
